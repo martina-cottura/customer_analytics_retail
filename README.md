@@ -36,6 +36,7 @@ Paralelamente, se está desarrollando un **dashboard interactivo en Power BI** p
 
 📅 **Última actualización:** Abril de 2026.
 
+
 ## 🏢 Descripción del Negocio
 
 **Cumbres Outdoor & Deporte** es una empresa española especializada en la venta de equipamiento deportivo y material outdoor. Opera mediante una red de cuatro tiendas físicas ubicadas en Madrid, Barcelona, Valencia y Sevilla, complementada con un canal de ecommerce que amplía su alcance a todo el territorio nacional.
